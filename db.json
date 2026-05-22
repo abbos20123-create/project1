@@ -1,0 +1,520 @@
+{
+  "homepage": {
+    "name": "KIA K5",
+    "video": "blob:http://localhost:5173/bfe028fb-9a88-4c4d-a0c6-6841965de15c"
+  },
+  "models": [
+    {
+      "id": "1",
+      "slug": "k5",
+      "name": "K5",
+      "category": "SEDAN",
+      "description": "Business Sedan",
+      "startingPrice": "349 900 000",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCo_I4kG8oaqv8yRgZYBVS6RNnTEVa6mg9plwGa2UHkA2U8XfjeinYAUgKiIvJc9dkf5BEQGNZzbp5gIm1x3utYChsUF8ZpfGuvzyl63esA5EKl2fSO5vg_vALe-v0dqO2y6vp-osFdrJxKcUfpnevSIjYQ7bL94dndkUrAf0cVyaJzRuUEgL-2Fc8bSj2upXHekXUuJPrfyd7qG0C_h1uEh6QF9XEWhr9O10h0M7InhzR1WKBD-vwMW7gGYGth5u0aA5rW4MPUoeo",
+      "bgImage": "/K5.svg"
+    },
+    {
+      "id": "2",
+      "slug": "k9",
+      "name": "K9",
+      "category": "FLAGMAN SEDAN",
+      "description": "Flagman Luxury Sedan",
+      "startingPrice": "999 900 000",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCymb46tzvSjCJ6TFLrEZvDm8gWe7D70_c0ZarZoaM1ro9bt5-bSg2HFz60jCMREnvwoZ879HKeViatN7w8JXGWZkhzot4k0rJiDhm0GieMktwcNccHiPnFnaANyETVrwbWT1ODW8i8bs6_HxLwlBs6iKBye-cqz1Y2PWBbgkMjn_437-Pr2IxIgc7u2qdEWMnXRXsBSL0w2zg1UGHKNfOHXg6vo38s0Pc3s-y6hT0yVCa6cCFv7wDBjjzaGNwasDD_O07keCFFg",
+      "bgImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCymb46tzvSjCJ6TFLrEZvDm8gWe7D70_c0ZarZoaM1ro9bt5-bSg2HFz60jCMREnvwoZ879HKeViatN7w8JXGWZkhzot4k0rJiDhm0GieMktwcNccHiPnFnaANyETVrwbWT1ODW8i8bs6_HxLwlBs6iKBye-cqz1Y2PWBbgkMjn_437-Pr2IxIgc7u2qdEWMnXRXsBSL0w2zg1UGHKNfOHXg6vo38s0Pc3s-y6hT0yVCa6cCFv7wDBjjzaGNwasDD_O07keCFFg"
+    },
+    {
+      "id": "3",
+      "slug": "sportage",
+      "name": "Sportage",
+      "category": "KROSSOVER",
+      "description": "Krossover SUV",
+      "startingPrice": "429 900 000",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAqr9x21gFqvV5D91Qi4gJDs5mo6oaOcJBC-GFb7jgvKvo67uW3w3Y4bip5_4vgDZnxuvCz7TTelEEFeokMsFsXShnMqELmm3SizqJxDcMPGsJgjfzr5Ngci3hkhOwnUb-gpYdDsw-Xw6IsGvRMLevb1fu5sxlGrIgS_U2IBB_YHlqSIsjcmHGU3D5yLefAb0hw0QOvGhfakCls_yMmQT_roXhohE1G4BOhBIFMkdeWO5H548GG0B6n48oGQVvkiFlcky2MHjD-Uc8",
+      "bgImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuAqr9x21gFqvV5D91Qi4gJDs5mo6oaOcJBC-GFb7jgvKvo67uW3w3Y4bip5_4vgDZnxuvCz7TTelEEFeokMsFsXShnMqELmm3SizqJxDcMPGsJgjfzr5Ngci3hkhOwnUb-gpYdDsw-Xw6IsGvRMLevb1fu5sxlGrIgS_U2IBB_YHlqSIsjcmHGU3D5yLefAb0hw0QOvGhfakCls_yMmQT_roXhohE1G4BOhBIFMkdeWO5H548GG0B6n48oGQVvkiFlcky2MHjD-Uc8"
+    },
+    {
+      "id": "4",
+      "slug": "ev6",
+      "name": "EV6",
+      "category": "ELEKTROMOBIL",
+      "description": "Elektr Avtomobil",
+      "startingPrice": "699 900 000",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCo5tzgDobCFzrG9k8t4WZyzhDrFdgcCmVjPpks3dueB2jwRDzmRmWw22czHAV2XarP0RwD9-pyYuaW4gZX37qBgYppsQFW-R2o-tVUmbpbqVvi282Klmsux3MVPpLMPtfdiR6Y7qlpeJB_8FO4OnDw9EvcbSHspQ4xY9ivSuN8H0kCoyC9Nq3Mmcp7zVsEf8VQpGvnhWLj_2NSLZJ2GMRmnv_Mu9ClgxY8AsVH_bgKY2CP4Vq94VlWHg412Gvol8AHhbKot7L3pjo",
+      "bgImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuCo5tzgDobCFzrG9k8t4WZyzhDrFdgcCmVjPpks3dueB2jwRDzmRmWw22czHAV2XarP0RwD9-pyYuaW4gZX37qBgYppsQFW-R2o-tVUmbpbqVvi282Klmsux3MVPpLMPtfdiR6Y7qlpeJB_8FO4OnDw9EvcbSHspQ4xY9ivSuN8H0kCoyC9Nq3Mmcp7zVsEf8VQpGvnhWLj_2NSLZJ2GMRmnv_Mu9ClgxY8AsVH_bgKY2CP4Vq94VlWHg412Gvol8AHhbKot7L3pjo"
+    },
+    {
+      "id": "5",
+      "slug": "seltos",
+      "name": "Seltos",
+      "category": "KROSSOVER",
+      "description": "Kompakt Krossover",
+      "startingPrice": "319 000 000",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCjRDEx4N0C4ToHORI2aWfzZ2YGcwePToDqrG1ic2rTvPlLWVYeFho6o3q19HNIcBaZRm-kXBChNXUwrRF4uZJtpxnfqRWz-km2TSL-S-c885JTPFPCr8EZuCRqp51lKD4XopxsESmho5RWinsnFVnXX7iM74rcaGK1Kf7Ww0HccUiSQTSS8WnAk2oJl703p-HyEE82uBJ3fQseCh-P-3hAtTadQY511cxXRpZeR0npDmDZYRDkNtsXeCppLfIyan015bdljWw4kOg",
+      "bgImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuCjRDEx4N0C4ToHORI2aWfzZ2YGcwePToDqrG1ic2rTvPlLWVYeFho6o3q19HNIcBaZRm-kXBChNXUwrRF4uZJtpxnfqRWz-km2TSL-S-c885JTPFPCr8EZuCRqp51lKD4XopxsESmho5RWinsnFVnXX7iM74rcaGK1Kf7Ww0HccUiSQTSS8WnAk2oJl703p-HyEE82uBJ3fQseCh-P-3hAtTadQY511cxXRpZeR0npDmDZYRDkNtsXeCppLfIyan015bdljWw4kOg"
+    },
+    {
+      "id": "6",
+      "slug": "sorento",
+      "name": "Sorento",
+      "category": "KROSSOVER",
+      "description": "Katta Oilaviy SUV",
+      "startingPrice": "599 900 000",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBFG8qtDdmC-zvu8exELVLoY62I7W8xMaz3Vt2bhV9ShdZXw8oLp2snJDMrZcWIVxpXE3DxYmP7tTUao6KyDPT_UHY5VZPoQu-K8Bau1dQzKlgaHKJ90OwQ4LBJH0OWVHLZPgoaeOU7CXJcZTGJDpHh2ZvmHbwoqvCbYRlY9WzlmjVErQytEai1GYEE2pGY1XNQ4mI0tnAOcpgWQfUqZq9bufHv1PUq2n_k3_FJtsQAsGGt8UBPACprbJ9MoRFAf6URNwNe72vKeJU",
+      "bgImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBFG8qtDdmC-zvu8exELVLoY62I7W8xMaz3Vt2bhV9ShdZXw8oLp2snJDMrZcWIVxpXE3DxYmP7tTUao6KyDPT_UHY5VZPoQu-K8Bau1dQzKlgaHKJ90OwQ4LBJH0OWVHLZPgoaeOU7CXJcZTGJDpHh2ZvmHbwoqvCbYRlY9WzlmjVErQytEai1GYEE2pGY1XNQ4mI0tnAOcpgWQfUqZq9bufHv1PUq2n_k3_FJtsQAsGGt8UBPACprbJ9MoRFAf6URNwNe72vKeJU"
+    },
+    {
+      "id": "7",
+      "slug": "sonet",
+      "name": "Sonet",
+      "category": "KROSSOVER",
+      "description": "Kompakt Krossover",
+      "startingPrice": "229 900 000",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBBXyVokubYgg3HQqLADXLGwsBDbta9GXqOdviQyDDY6pmMOyadzdkmfSXr3JxTE8oRHWhbsYG4tIihE9xMYH7qRetEy9k2Jd3t-9KsISnKr29_-UZNBXlAg5kaud7GFIvauNboqyZi57NX8KcVKzaoxWlfzvzApW8Oe4Owc75EyeqgfJvOWtrvB_KVmrNtVdlacQAcs1lDPbKlSVVIrO4EC4Rjl3VOw_JvAeNGaoQVk5LcsLCVG2-Zn4h7-W0eP2kN8z8JHSMX0kM",
+      "bgImage": "/sonet.svg"
+    },
+    {
+      "id": "8",
+      "slug": "carnival",
+      "name": "Carnival",
+      "category": "MPV",
+      "description": "Premium MPV",
+      "startingPrice": "649 900 000",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAjMuV5j9dmiJmGetH9Fx_0q-9F7uCWH-VtCaoen9uXmH942YRctq_Pjr6k3xVE1i4sGG5Bke1mKakSHiv9sOXenxn7UYd0_cfj28B8yc5Kmnn7Cko363ONA_JssOJsIx9eczrPPRX8CKIr548eBf1ppOSu_ncZwyLEXzMSCtVj1jGH1EvUpg4WaGva6QTb3DVFqJA18JJ-JJF4CTF_IBeRmeFUNhns1BGZO0G8aaI69zwWKLRmEsapCoMedb3qF4P7muSuBSblAwk",
+      "bgImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuAjMuV5j9dmiJmGetH9Fx_0q-9F7uCWH-VtCaoen9uXmH942YRctq_Pjr6k3xVE1i4sGG5Bke1mKakSHiv9sOXenxn7UYd0_cfj28B8yc5Kmnn7Cko363ONA_JssOJsIx9eczrPPRX8CKIr548eBf1ppOSu_ncZwyLEXzMSCtVj1jGH1EvUpg4WaGva6QTb3DVFqJA18JJ-JJF4CTF_IBeRmeFUNhns1BGZO0G8aaI69zwWKLRmEsapCoMedb3qF4P7muSuBSblAwk"
+    },
+    {
+      "slug": "agfdsh",
+      "name": "fdas",
+      "category": "adsfg",
+      "description": "fasgd",
+      "startingPrice": "452132",
+      "image": "https://www.kia.com/content/dam/kia2/in/en/our-vehicles/new-seltos/seltos_d_1.jpg",
+      "bgImage": "https://www.kia.com/content/dam/kia2/in/en/our-vehicles/new-seltos/seltos_d_1.jpg",
+      "id": "9"
+    },
+    {
+      "slug": "gdhfng",
+      "name": "k10",
+      "category": "van",
+      "description": "good quality",
+      "startingPrice": "450 000 000",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/kia-pv5-passenger-front-quarter_0.jpg?itok=ZNal_KGm",
+      "bgImage": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/kia-pv5-passenger-front-quarter_0.jpg?itok=ZNal_KGm",
+      "id": "10"
+    },
+    {
+      "slug": "ad",
+      "name": "mers",
+      "category": "fasdf",
+      "description": "adfa",
+      "startingPrice": "320000000",
+      "image": "https://frankfurt.apollo.olxcdn.com/v1/files/bmr7pvhdxgt9-UZ/image;s=1000x750",
+      "bgImage": "https://frankfurt.apollo.olxcdn.com/v1/files/bmr7pvhdxgt9-UZ/image;s=1000x750",
+      "id": "11"
+    },
+    {
+      "id": "12",
+      "slug": "sdf",
+      "name": "lambo",
+      "category": "gasd",
+      "description": "asdf",
+      "startingPrice": "23000000",
+      "image": "https://media.wired.com/photos/6423826d7f6ce88e606d7b55/3:2/w_2560%2Cc_limit/Lamborghini-Revuelto-Featured-Gear.jpg",
+      "bgImage": "https://media.wired.com/photos/6423826d7f6ce88e606d7b55/3:2/w_2560%2Cc_limit/Lamborghini-Revuelto-Featured-Gear.jpg"
+    },
+    {
+      "id": "13",
+      "slug": "asdf",
+      "name": "fasd",
+      "category": "adf",
+      "description": "asdf",
+      "startingPrice": "230 000 000",
+      "image": "blob:http://localhost:5173/98c04d7f-27a6-4051-92e1-e3af4c00af11",
+      "bgImage": "blob:http://localhost:5173/16b2678a-e8e3-44c3-bacf-b0adc53a08b4"
+    },
+    {
+      "slug": "QQQQ",
+      "name": "QQQQ",
+      "category": "QQQ",
+      "description": "QQQ",
+      "startingPrice": "1111111",
+      "image": "blob:http://localhost:5173/15920e19-0092-4355-8189-509fd24f8f21",
+      "bgImage": "blob:http://localhost:5173/644c3505-4af1-4a20-b9c1-df2e685e9980",
+      "id": "14"
+    },
+    {
+      "id": "1fytdyWUzRM",
+      "slug": "ssss",
+      "name": "ssss",
+      "category": "ssss",
+      "description": "ssss",
+      "startingPrice": "sss",
+      "image": "https://kia-auto.uz/img/cars/seltos.webp",
+      "bgImage": "https://kia-auto.uz/img/cars/seltos.webp"
+    }
+  ],
+  "komplektatsiyalar": [
+    {
+      "id": "1",
+      "carId": 1,
+      "name": "Comfort",
+      "price": "349 900 000",
+      "features": "LED fara, Kruiz-nazorat, 8 dyuymli displey, Orqani ko'rish kamerasi."
+    },
+    {
+      "id": "2",
+      "carId": 1,
+      "name": "Luxe",
+      "price": "369 900 000",
+      "features": "O'rindiqni isitish, Ikki zonali iqlim-nazorat, Smart Key tizimi."
+    },
+    {
+      "id": "3",
+      "carId": 1,
+      "name": "Prestige",
+      "price": "389 900 000",
+      "features": "Ko'r zonalarni monitoring qilish tizimi, 10.25 dyuymli displey."
+    },
+    {
+      "id": "4",
+      "carId": 1,
+      "name": "Style",
+      "price": "409 900 000",
+      "features": "18-dyuymli disklar, Bose audiotizim, Sportiv dizayn detallari."
+    },
+    {
+      "id": "5",
+      "carId": 1,
+      "name": "GT Line Premium",
+      "price": "449 900 000",
+      "features": "Sportiv interyer, Panoramik tom, Ventilyatsiya qilinadigan o'rindiqlar."
+    },
+    {
+      "id": "6",
+      "carId": 2,
+      "name": "Prestige",
+      "price": "999 900 000",
+      "features": "19-dyuymli disklar, Panoramik tom, Xarman/Kardon audio, Massaj o'rindiqlari."
+    },
+    {
+      "id": "7",
+      "carId": 2,
+      "name": "Prestige Plus",
+      "price": "1 099 900 000",
+      "features": "Orqa o'rindiq massaji, Ambient yoritish, 4 zonali iqlim-nazorat."
+    },
+    {
+      "id": "8",
+      "carId": 3,
+      "name": "Comfort",
+      "price": "429 900 000",
+      "features": "LED faralar, 10.25 dyuymli displey, Orqani ko'rish kamerasi, Kruiz-nazorat."
+    },
+    {
+      "id": "9",
+      "carId": 3,
+      "name": "Luxe",
+      "price": "459 900 000",
+      "features": "O'rindiqni isitish va sovutish, Smart Key, 360° kamera."
+    },
+    {
+      "id": "10",
+      "carId": 3,
+      "name": "Prestige AWD",
+      "price": "499 900 000",
+      "features": "To'liq yuldosh haydash tizimi, Panoramik tom, Bose audio."
+    },
+    {
+      "id": "11",
+      "carId": 4,
+      "name": "Standard Range",
+      "price": "699 900 000",
+      "features": "167 ot kuchi, 394 km qo'lami, 58 kWh batareya."
+    },
+    {
+      "id": "12",
+      "carId": 4,
+      "name": "Long Range",
+      "price": "769 900 000",
+      "features": "229 ot kuchi, 528 km qo'lami, 77.4 kWh batareya, AWD."
+    },
+    {
+      "id": "13",
+      "carId": 4,
+      "name": "GT-Line",
+      "price": "829 900 000",
+      "features": "Sportiv dizayn, 20-dyuymli disklar, Head-up displey, Premium audio."
+    },
+    {
+      "id": "14",
+      "carId": 5,
+      "name": "Classic",
+      "price": "319 000 000",
+      "features": "7 dyuymli ekran, LED fara, Orqani ko'rish kamerasi."
+    },
+    {
+      "id": "15",
+      "carId": 5,
+      "name": "Comfort",
+      "price": "339 000 000",
+      "features": "10.25 dyuymli displey, Smart Key, O'rindiqni isitish."
+    },
+    {
+      "id": "16",
+      "carId": 5,
+      "name": "Prestige",
+      "price": "359 000 000",
+      "features": "360° kamera, Panoramik tom, Premium audio tizimi."
+    },
+    {
+      "id": "17",
+      "carId": 6,
+      "name": "Comfort",
+      "price": "599 900 000",
+      "features": "7 o'rindiqli salon, LED faralar, 8 dyuymli displey."
+    },
+    {
+      "id": "18",
+      "carId": 6,
+      "name": "Prestige",
+      "price": "649 900 000",
+      "features": "AWD, Panoramik tom, 10.25 dyuymli ekran, Orqa televizorlar."
+    },
+    {
+      "id": "19",
+      "carId": 6,
+      "name": "Prestige AWD",
+      "price": "699 900 000",
+      "features": "To'liq komplektatsiya, Head-up displey, Bose audio, Massaj o'rindiqlari."
+    },
+    {
+      "id": "20",
+      "carId": 7,
+      "name": "Classic",
+      "price": "229 900 000",
+      "features": "8 dyuymli displey, LED fara, Orqani ko'rish kamerasi."
+    },
+    {
+      "id": "21",
+      "carId": 7,
+      "name": "Comfort",
+      "price": "249 900 000",
+      "features": "Smart Key, O'rindiqni isitish, Iqlim-nazorat."
+    },
+    {
+      "id": "22",
+      "carId": 7,
+      "name": "Luxe",
+      "price": "269 900 000",
+      "features": "Panoramik tom, 17-dyuymli disklar, 360° kamera."
+    },
+    {
+      "id": "23",
+      "carId": 8,
+      "name": "Prestige",
+      "price": "649 900 000",
+      "features": "8 o'rindiq, LED faralar, 12.3 dyuymli displey, Smart Key."
+    },
+    {
+      "id": "24",
+      "carId": 8,
+      "name": "Prestige Plus",
+      "price": "699 900 000",
+      "features": "VIP 7 o'rindiq, Elektr eshiklar, Premium audio, Massaj o'rindiqlari."
+    },
+    {
+      "carId": 2,
+      "name": "premium",
+      "price": "35000000",
+      "features": "zor hammasi",
+      "id": "atzHL-yhsPU"
+    },
+    {
+      "carId": 8,
+      "name": "fds",
+      "price": "42312",
+      "features": "sdafsdg",
+      "id": "7EVV4-Lz3Tk"
+    },
+    {
+      "carId": 9,
+      "name": "pretty",
+      "price": "34000000",
+      "features": "led fara ",
+      "id": "SZKsWF1OgQI"
+    },
+    {
+      "carId": 10,
+      "name": "gfnh",
+      "price": "gsdf",
+      "features": "3000",
+      "id": "mPbRLt5JWEE"
+    },
+    {
+      "carId": 3,
+      "name": "gsfdb",
+      "price": "120000000",
+      "features": "fdsgdn",
+      "id": "DKGkIlCzi70"
+    },
+    {
+      "carId": 4,
+      "name": "adf",
+      "price": "4234",
+      "features": "sfg",
+      "id": "3bfmidC6RyE"
+    },
+    {
+      "carId": 5,
+      "name": "412",
+      "price": "adsf",
+      "features": "asdf",
+      "id": "EIFFVYQZtms"
+    },
+    {
+      "carId": 14,
+      "name": "ADSF",
+      "price": "1212",
+      "features": "ADFASD",
+      "id": "4USnlRXc3Rk"
+    }
+  ],
+  "testdrives": [
+    {
+      "name": "aasdf",
+      "phone": "asdf",
+      "model": "Sportage",
+      "comment": "safd",
+      "id": "XaD61PfAPp0"
+    },
+    {
+      "name": "asfd",
+      "phone": "4123",
+      "model": "Sorento",
+      "comment": "aDS",
+      "id": "efbACoClXMw"
+    },
+    {
+      "name": "asf",
+      "phone": "523",
+      "model": "Seltos",
+      "comment": "asdga",
+      "id": "YvsgFKes8NE"
+    },
+    {
+      "name": "asd",
+      "phone": "32",
+      "model": "mers",
+      "comment": "adfa",
+      "id": "86xM80pgMKg"
+    },
+    {
+      "name": "asdf",
+      "phone": "223",
+      "model": "EV6",
+      "comment": "asdf",
+      "id": "P1byT3aA2uQ"
+    },
+    {
+      "name": "adagd",
+      "phone": "4334",
+      "model": "Sonet",
+      "comment": "fasdf",
+      "id": "Z4Xc41-nYv0"
+    },
+    {
+      "name": "fas",
+      "phone": "123",
+      "model": "lambo",
+      "comment": "asdf",
+      "id": "EqBOv-9JTY4"
+    },
+    {
+      "name": "fd",
+      "phone": "4",
+      "model": "Sportage",
+      "comment": "dfas",
+      "id": "8c-XiycFu44"
+    },
+    {
+      "name": "adsf",
+      "phone": "14",
+      "model": "mers",
+      "comment": "adfad",
+      "id": "A_k_CDMIbaw"
+    },
+    {
+      "name": "adsfas",
+      "phone": "424",
+      "model": "fdas",
+      "comment": "asgasdf",
+      "id": "knvaoKKtiMk"
+    },
+    {
+      "name": "adfa",
+      "phone": "52342",
+      "model": "Carnival",
+      "comment": "fdsfa",
+      "id": "mha0U6PPgYw"
+    },
+    {
+      "name": "asdf",
+      "phone": "3423",
+      "model": "Seltos",
+      "comment": "asfdaf",
+      "id": "HAFpIo-oe2s"
+    },
+    {
+      "name": "fadf",
+      "phone": "ag",
+      "model": "Sportage",
+      "comment": "asgs",
+      "id": "R8j-FTkOF9Y"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "afdasf",
+      "phone": "2421",
+      "model": "k10",
+      "id": "T0wG0r9SixQ"
+    }
+  ],
+  "orders": [
+    {
+      "name": "da",
+      "phone": "4123",
+      "car": "K9",
+      "komplektatsiya": "Prestige Plus",
+      "price": "1 099 900 000",
+      "id": "ibX9_1Kobcg"
+    },
+    {
+      "name": "salam",
+      "phone": "120011",
+      "car": "Sportage",
+      "komplektatsiya": "Prestige AWD",
+      "price": "499 900 000",
+      "id": "XhV9P65Z-gM"
+    }
+  ],
+  "offers": [
+    {
+      "id": "QVzxbBY1Iac",
+      "name": "fasd",
+      "phone": "4234",
+      "model": "k10",
+      "createdAt": "2026-05-22T07:58:05.409Z"
+    },
+    {
+      "id": "PDNSK8Eonas",
+      "name": "asdffs",
+      "phone": "1222",
+      "model": "K9",
+      "createdAt": "2026-05-22T10:26:33.037Z"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
