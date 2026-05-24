@@ -472,6 +472,13 @@
       "model": "Sportage",
       "comment": "asgs",
       "id": "R8j-FTkOF9Y"
+    },
+    {
+      "name": "asdf",
+      "phone": "3123",
+      "model": "Seltos",
+      "comment": "asdfa",
+      "id": "jNmUXKjFANc"
     }
   ],
   "contacts": [
@@ -480,6 +487,12 @@
       "phone": "2421",
       "model": "k10",
       "id": "T0wG0r9SixQ"
+    },
+    {
+      "name": "asdfa",
+      "phone": "13231",
+      "model": "k10",
+      "id": "gfi7BEbBWrQ"
     }
   ],
   "orders": [
@@ -498,6 +511,14 @@
       "komplektatsiya": "Prestige AWD",
       "price": "499 900 000",
       "id": "XhV9P65Z-gM"
+    },
+    {
+      "name": "asdf",
+      "phone": "12231",
+      "car": "Sportage",
+      "komplektatsiya": "Luxe",
+      "price": "459 900 000",
+      "id": "zvgrOkuzF8g"
     }
   ],
   "offers": [
@@ -514,6 +535,13 @@
       "phone": "1222",
       "model": "K9",
       "createdAt": "2026-05-22T10:26:33.037Z"
+    },
+    {
+      "id": "wA1542jgAgg",
+      "name": "asdf",
+      "phone": "11111",
+      "model": "mers",
+      "createdAt": "2026-05-22T12:14:45.188Z"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
